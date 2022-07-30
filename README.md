@@ -1,5 +1,5 @@
 # T-AQA-Dataset
-This repository contains aduio clips, related speech-based questions and a suitable answer to asked question to prepare T-AQA(Textless Audio Question Answering Dataset). The dataset conains a total of 1991 audio clips and 18 pairs of speech-based question and natural language answer for each audio clips. A seperate train, validation and test files are provided for training, validation and test deep models for TAQA task. 
+This repository contains audio clips, related speech-based questions, and a suitable answer to asked questions to prepare T-AQA(Textless Audio Question Answering Dataset). The dataset contains a total of 1991 audio clips and 18 pairs of speech-based questions and natural language answers for each audio clip. A separate train, validation, and test files are provided for training, validation, and test deep models for the TAQA task.
 
 
 Requirements:
